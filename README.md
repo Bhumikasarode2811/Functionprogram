@@ -1,0 +1,1 @@
+A collection of Python programs based on functions, loops, conditional statements, and basic problem-solving. This repository includes practice programs such as Even or Odd, Largest Number, Multiplication Table, FizzBuzz, Palindrome Checker, Count Vowels, Guessing Game, and more. Created to improve Python programming skills and logical thinking.
